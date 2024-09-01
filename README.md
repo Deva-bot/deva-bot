@@ -17,3 +17,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### I code in
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
+<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/mysql.png" alt="mysql"/>
+
+### IDE and Tools I Use
+<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/java-eclipse.png" alt="java-eclipse"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
+### 💻 Workspace Spec
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deva-bot&bg_color=171617&color=f7edf7&line=9e4c98&point=f8f7f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
